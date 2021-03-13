@@ -1,0 +1,2278 @@
+{
+	"Firebase": [
+		{
+			"name": "functions-samples",
+			"link": "https://github.com//firebase/functions-samples",
+			"issues": [
+				{
+					"issueTitle": "[BUG] in sample: linkedin-auth",
+					"issueURL": "https://github.com//firebase/functions-samples/issues/822"
+				},
+				{
+					"issueTitle": "Invalid registration token provided. Make sure it matches the registration token the client app receives from registering with FCM.",
+					"issueURL": "https://github.com//firebase/functions-samples/issues/790"
+				},
+				{
+					"issueTitle": "Update generate-thumbnail example because file.getSignedURL() does not work in the Cloud Functions environment",
+					"issueURL": "https://github.com//firebase/functions-samples/issues/782"
+				},
+				{
+					"issueTitle": "New sample suggestion: Firebase + Elastic Search",
+					"issueURL": "https://github.com//firebase/functions-samples/issues/776"
+				},
+				{
+					"issueTitle": "Stripe functions example: incorrect type handling",
+					"issueURL": "https://github.com//firebase/functions-samples/issues/773"
+				},
+				{
+					"issueTitle": "Stripe sample addPaymentMethodDetails is missing some logic",
+					"issueURL": "https://github.com//firebase/functions-samples/issues/770"
+				},
+				{
+					"issueTitle": "Error in Image moderator",
+					"issueURL": "https://github.com//firebase/functions-samples/issues/768"
+				},
+				{
+					"issueTitle": "blurOffensiveImages finished with status: 'timeout'",
+					"issueURL": "https://github.com//firebase/functions-samples/issues/766"
+				},
+				{
+					"issueTitle": "nextjs-with-firebase-hosting sample appears to document a sub-optimal configuration",
+					"issueURL": "https://github.com//firebase/functions-samples/issues/763"
+				},
+				{
+					"issueTitle": "how can i retrieve random data from realtime database",
+					"issueURL": "https://github.com//firebase/functions-samples/issues/762"
+				},
+				{
+					"issueTitle": "My application's intent does not change even coding is perfect but logically problem what i do",
+					"issueURL": "https://github.com//firebase/functions-samples/issues/759"
+				},
+				{
+					"issueTitle": "child-count",
+					"issueURL": "https://github.com//firebase/functions-samples/issues/739"
+				},
+				{
+					"issueTitle": "rewrite /path to root domain(/) for Single page application with any method",
+					"issueURL": "https://github.com//firebase/functions-samples/issues/735"
+				},
+				{
+					"issueTitle": "Couldn't find a `pages` directory",
+					"issueURL": "https://github.com//firebase/functions-samples/issues/729"
+				},
+				{
+					"issueTitle": "Issue with pre installed plugin (image resize)",
+					"issueURL": "https://github.com//firebase/functions-samples/issues/706"
+				},
+				{
+					"issueTitle": "convert-audio function error",
+					"issueURL": "https://github.com//firebase/functions-samples/issues/704"
+				},
+				{
+					"issueTitle": "Incorrect FFMPEG path",
+					"issueURL": "https://github.com//firebase/functions-samples/issues/692"
+				},
+				{
+					"issueTitle": "generateThumbnail produces toxic image",
+					"issueURL": "https://github.com//firebase/functions-samples/issues/652"
+				},
+				{
+					"issueTitle": "request a function sample which is greatly needed",
+					"issueURL": "https://github.com//firebase/functions-samples/issues/637"
+				},
+				{
+					"issueTitle": "instagram auth : issue while running the app",
+					"issueURL": "https://github.com//firebase/functions-samples/issues/636"
+				},
+				{
+					"issueTitle": "TypeError: Cannot read property 'access_token' of null at OAuth2Client.getRequestMetadataAsync",
+					"issueURL": "https://github.com//firebase/functions-samples/issues/632"
+				},
+				{
+					"issueTitle": "PayPal function CORS",
+					"issueURL": "https://github.com//firebase/functions-samples/issues/630"
+				},
+				{
+					"issueTitle": "You cannot use a PaymentMethod as a source for Customers.",
+					"issueURL": "https://github.com//firebase/functions-samples/issues/621"
+				},
+				{
+					"issueTitle": "Please document text-moderation and moderate-images in TypeScript",
+					"issueURL": "https://github.com//firebase/functions-samples/issues/617"
+				},
+				{
+					"issueTitle": "Crashlytics not reporting crashes If unity as library used",
+					"issueURL": "https://github.com//firebase/functions-samples/issues/614"
+				}
+			]
+		},
+		{
+			"name": "react-native-firebase",
+			"link": "https://github.com//invertase/react-native-firebase",
+			"issues": [
+				{
+					"issueTitle": "Android app restarts after opening a push notification in background state",
+					"issueURL": "https://github.com//invertase/react-native-firebase/issues/5023"
+				},
+				{
+					"issueTitle": "[🐛] iOS randomly stops receiving notifications after restarting the app",
+					"issueURL": "https://github.com//invertase/react-native-firebase/issues/5021"
+				},
+				{
+					"issueTitle": "🔥[🐛] iOS push not received but yes on android",
+					"issueURL": "https://github.com//invertase/react-native-firebase/issues/5016"
+				},
+				{
+					"issueTitle": "Turn off Detox TRACE debug on iOS (at least)",
+					"issueURL": "https://github.com//invertase/react-native-firebase/issues/5008"
+				},
+				{
+					"issueTitle": "[🔥] Scheduled Notifications in Recipient Time Zone Do Not Appear",
+					"issueURL": "https://github.com//invertase/react-native-firebase/issues/5001"
+				},
+				{
+					"issueTitle": "[🐛] Messaging onTokenRefresh inconsistencies - after deleting the token, listener triggers on iOS but not on Android",
+					"issueURL": "https://github.com//invertase/react-native-firebase/issues/4997"
+				},
+				{
+					"issueTitle": "in-app messaging: installed but can't send messages from console",
+					"issueURL": "https://github.com//invertase/react-native-firebase/issues/4991"
+				},
+				{
+					"issueTitle": "🔥 NativeFirebaseError: [auth/invalid-app-credential] Invalid token.",
+					"issueURL": "https://github.com//invertase/react-native-firebase/issues/4983"
+				},
+				{
+					"issueTitle": "Storage E2E tests have possible unhandled promise rejection",
+					"issueURL": "https://github.com//invertase/react-native-firebase/issues/4982"
+				},
+				{
+					"issueTitle": "[📚] Documentation Issue Title - CHANGE ME",
+					"issueURL": "https://github.com//invertase/react-native-firebase/issues/4978"
+				},
+				{
+					"issueTitle": "[🔥 🐛] 'FirestoreFieldPath' cannot be used in conjunction with a different Query.orderBy() parameter error",
+					"issueURL": "https://github.com//invertase/react-native-firebase/issues/4968"
+				},
+				{
+					"issueTitle": "[🐛] push notification not appear on android devices after migtration to react-native-firebase/messaging 10.5.1",
+					"issueURL": "https://github.com//invertase/react-native-firebase/issues/4962"
+				},
+				{
+					"issueTitle": "[🔥🐛] Login Social return data undefined on Real Device (Samsung)",
+					"issueURL": "https://github.com//invertase/react-native-firebase/issues/4949"
+				},
+				{
+					"issueTitle": "[🐛] iOS Bug auth/network-request-failed when user has stable wifi",
+					"issueURL": "https://github.com//invertase/react-native-firebase/issues/4934"
+				},
+				{
+					"issueTitle": "🔥 [🐛] setUserId(null) does not work",
+					"issueURL": "https://github.com//invertase/react-native-firebase/issues/4931"
+				},
+				{
+					"issueTitle": "[🐛] Unhandled promise rejection [Error: [firestore/unavailable]",
+					"issueURL": "https://github.com//invertase/react-native-firebase/issues/4923"
+				},
+				{
+					"issueTitle": "[🐛] dynamicLinks - getInitialLink() is stack on Android",
+					"issueURL": "https://github.com//invertase/react-native-firebase/issues/4922"
+				},
+				{
+					"issueTitle": "[🐛] Messaging not working in iOS in 10.8.0",
+					"issueURL": "https://github.com//invertase/react-native-firebase/issues/4918"
+				},
+				{
+					"issueTitle": "[🐛]  \"auth\"/linkWithCredential, does not return credential-already-in-use",
+					"issueURL": "https://github.com//invertase/react-native-firebase/issues/4911"
+				},
+				{
+					"issueTitle": "[🐛] NullPointerException - Attempt to invoke virtual method waitForPendingWrites() on Android",
+					"issueURL": "https://github.com//invertase/react-native-firebase/issues/4887"
+				},
+				{
+					"issueTitle": "[🐛] Realtime Database Not Working",
+					"issueURL": "https://github.com//invertase/react-native-firebase/issues/4864"
+				},
+				{
+					"issueTitle": "[🐛] Interference / inconsistent behavior with other services issuing push notifications",
+					"issueURL": "https://github.com//invertase/react-native-firebase/issues/4839"
+				},
+				{
+					"issueTitle": "[🐛] Bug with FieldPath, where & update behavior",
+					"issueURL": "https://github.com//invertase/react-native-firebase/issues/4836"
+				},
+				{
+					"issueTitle": "[🐛] setUserProperty not working on some devices",
+					"issueURL": "https://github.com//invertase/react-native-firebase/issues/4828"
+				},
+				{
+					"issueTitle": "[🐛] Analytics session start event was not sent after enabling collection on Android",
+					"issueURL": "https://github.com//invertase/react-native-firebase/issues/4820"
+				}
+			]
+		},
+		{
+			"name": "quickstart-android",
+			"link": "https://github.com//firebase/quickstart-android",
+			"issues": [
+				{
+					"issueTitle": "Jetpacktify our quickstarts ✨",
+					"issueURL": "https://github.com//firebase/quickstart-android/issues/1217"
+				},
+				{
+					"issueTitle": "FATAL EXCEPTION: Firebase-Messaging-Intent-Handle",
+					"issueURL": "https://github.com//firebase/quickstart-android/issues/1209"
+				},
+				{
+					"issueTitle": "FirebaseVisionImage.fromMediaImage vs fromBitmap",
+					"issueURL": "https://github.com//firebase/quickstart-android/issues/1158"
+				},
+				{
+					"issueTitle": "Why does Firebase pendingAuthResult return null when the app is killed?",
+					"issueURL": "https://github.com//firebase/quickstart-android/issues/1045"
+				},
+				{
+					"issueTitle": "I receive only last one message when turn on internet?",
+					"issueURL": "https://github.com//firebase/quickstart-android/issues/1007"
+				},
+				{
+					"issueTitle": "Problem that Firebase Push Notification play first sound in the raw folder for phones above SDK 26",
+					"issueURL": "https://github.com//firebase/quickstart-android/issues/981"
+				},
+				{
+					"issueTitle": "NPE on FirebasePerfUrlConnection.instrument(FirebasePerfUrlConnection.java:13)",
+					"issueURL": "https://github.com//firebase/quickstart-android/issues/975"
+				},
+				{
+					"issueTitle": "Manual tracking does not work when using Intents.",
+					"issueURL": "https://github.com//firebase/quickstart-android/issues/954"
+				},
+				{
+					"issueTitle": "dont recived notification when app in background or killed just on android 8 and later",
+					"issueURL": "https://github.com//firebase/quickstart-android/issues/941"
+				},
+				{
+					"issueTitle": "setCurrentScreen cannot be called while no activity active",
+					"issueURL": "https://github.com//firebase/quickstart-android/issues/935"
+				},
+				{
+					"issueTitle": "ava.lang.NullPointerException  Attempt to invoke virtual method 'com.google.firebase.remoteconfig.a com.google.firebase.remoteconfig.h.a(java.lang.String)' on a null object reference",
+					"issueURL": "https://github.com//firebase/quickstart-android/issues/908"
+				},
+				{
+					"issueTitle": "(Remote Config) E/AndroidRuntime: FATAL EXCEPTION: main",
+					"issueURL": "https://github.com//firebase/quickstart-android/issues/902"
+				},
+				{
+					"issueTitle": "How to get crashlytics stacktraces deobfuscated",
+					"issueURL": "https://github.com//firebase/quickstart-android/issues/897"
+				},
+				{
+					"issueTitle": "FCM issue old push coming after every re connection of internet",
+					"issueURL": "https://github.com//firebase/quickstart-android/issues/876"
+				},
+				{
+					"issueTitle": "Crashlytics for android apps using CMake for native code",
+					"issueURL": "https://github.com//firebase/quickstart-android/issues/875"
+				},
+				{
+					"issueTitle": "Ambiguity in Risk of Exporting FirebaseMessagingService-type Services Without Permissions",
+					"issueURL": "https://github.com//firebase/quickstart-android/issues/868"
+				},
+				{
+					"issueTitle": "Getting error after 1 min of app closed",
+					"issueURL": "https://github.com//firebase/quickstart-android/issues/857"
+				},
+				{
+					"issueTitle": "setCurrentScreen in onResume sends screen_view twice",
+					"issueURL": "https://github.com//firebase/quickstart-android/issues/782"
+				},
+				{
+					"issueTitle": "android firebase file upload in background service stopped when clear app from recents.",
+					"issueURL": "https://github.com//firebase/quickstart-android/issues/781"
+				},
+				{
+					"issueTitle": "Can't show notification on system tray after restart device. (FCM)",
+					"issueURL": "https://github.com//firebase/quickstart-android/issues/777"
+				},
+				{
+					"issueTitle": "android tv can not receive fcm messages when device in standby",
+					"issueURL": "https://github.com//firebase/quickstart-android/issues/761"
+				},
+				{
+					"issueTitle": "FCM can't run well in Android Kitkat and JellyBean (not sure about ICS)",
+					"issueURL": "https://github.com//firebase/quickstart-android/issues/759"
+				},
+				{
+					"issueTitle": "Is there a way to customize the sound for notification message on Android O and above?",
+					"issueURL": "https://github.com//firebase/quickstart-android/issues/754"
+				},
+				{
+					"issueTitle": "Testing with a local instance of the Cloud Functions Emulator",
+					"issueURL": "https://github.com//firebase/quickstart-android/issues/562"
+				},
+				{
+					"issueTitle": "Firebase Dynamic Links are reopening if put on onStart()",
+					"issueURL": "https://github.com//firebase/quickstart-android/issues/561"
+				}
+			]
+		},
+		{
+			"name": "angularfire",
+			"link": "https://github.com//angular/angularfire",
+			"issues": [
+				{
+					"issueTitle": "snapshotChanges() and valueChanges() emits twice, even when the document hasn't changed",
+					"issueURL": "https://github.com//angular/angularfire/issues/2776"
+				},
+				{
+					"issueTitle": "\"export '__spreadArray' was not found in 'tslib'",
+					"issueURL": "https://github.com//angular/angularfire/issues/2775"
+				},
+				{
+					"issueTitle": "Past authorization code here on ng add",
+					"issueURL": "https://github.com//angular/angularfire/issues/2768"
+				},
+				{
+					"issueTitle": "SSR + i18n ENOENT: no such file or directory, rename index.html -> index.original.html",
+					"issueURL": "https://github.com//angular/angularfire/issues/2765"
+				},
+				{
+					"issueTitle": "ng deploy - allow configuration for serverTarget",
+					"issueURL": "https://github.com//angular/angularfire/issues/2764"
+				},
+				{
+					"issueTitle": ".getToken() method on AngularFireMessaging fails too early on notification mermission.",
+					"issueURL": "https://github.com//angular/angularfire/issues/2762"
+				},
+				{
+					"issueTitle": "Feature Request:  Verify logged in firebase account before project selection.",
+					"issueURL": "https://github.com//angular/angularfire/issues/2760"
+				},
+				{
+					"issueTitle": "[feat] Multiple trackers",
+					"issueURL": "https://github.com//angular/angularfire/issues/2759"
+				},
+				{
+					"issueTitle": "Many functions have a possible return value of null, causing a error with TypeScript",
+					"issueURL": "https://github.com//angular/angularfire/issues/2758"
+				},
+				{
+					"issueTitle": "idField on valueChanges doesn't work as expected.",
+					"issueURL": "https://github.com//angular/angularfire/issues/2753"
+				},
+				{
+					"issueTitle": "why aren't showing my product list in admin-products on angular from firebase",
+					"issueURL": "https://github.com//angular/angularfire/issues/2748"
+				},
+				{
+					"issueTitle": "Angular SSR customized region via providers not working with ng deploy",
+					"issueURL": "https://github.com//angular/angularfire/issues/2747"
+				},
+				{
+					"issueTitle": "Method .get() not working in mode Angular Universal out of the NgZone",
+					"issueURL": "https://github.com//angular/angularfire/issues/2746"
+				},
+				{
+					"issueTitle": "Error installing the package",
+					"issueURL": "https://github.com//angular/angularfire/issues/2745"
+				},
+				{
+					"issueTitle": "'sample' project doesn't render on IE11 (fine on everything else)",
+					"issueURL": "https://github.com//angular/angularfire/issues/2742"
+				},
+				{
+					"issueTitle": "Multiple valueChange subscriptions for same collection leads to one subscription firing changes for another",
+					"issueURL": "https://github.com//angular/angularfire/issues/2740"
+				},
+				{
+					"issueTitle": "> Como lo solucionaste ?",
+					"issueURL": "https://github.com//angular/angularfire/issues/2738"
+				},
+				{
+					"issueTitle": "Angular 11.0.7 Universal SSR with Firebase + PWA not working",
+					"issueURL": "https://github.com//angular/angularfire/issues/2737"
+				},
+				{
+					"issueTitle": "Update docs around Universal",
+					"issueURL": "https://github.com//angular/angularfire/issues/2730"
+				},
+				{
+					"issueTitle": "Race condition in valueChanges()",
+					"issueURL": "https://github.com//angular/angularfire/issues/2728"
+				},
+				{
+					"issueTitle": "Inclusion of AngularFireAuth in the constructor causes snapshotChanges to emit three times",
+					"issueURL": "https://github.com//angular/angularfire/issues/2727"
+				},
+				{
+					"issueTitle": "Angular 11 Firebase Server-side rendering infinite loading / pending",
+					"issueURL": "https://github.com//angular/angularfire/issues/2725"
+				},
+				{
+					"issueTitle": "[Feature Request] add 'disableWarnings' option to emulators",
+					"issueURL": "https://github.com//angular/angularfire/issues/2724"
+				},
+				{
+					"issueTitle": "[AngularFireStorage] Documentation - getDownloadURL() is not a method of AngularFireUploadTask",
+					"issueURL": "https://github.com//angular/angularfire/issues/2709"
+				},
+				{
+					"issueTitle": "Route freezes with Resolver getting data from Firestore in SSR",
+					"issueURL": "https://github.com//angular/angularfire/issues/2695"
+				}
+			]
+		},
+		{
+			"name": "supabase",
+			"link": "https://github.com//supabase/supabase",
+			"issues": [
+				{
+					"issueTitle": "Query editor fails if table uses mixed case",
+					"issueURL": "https://github.com//supabase/supabase/issues/859"
+				},
+				{
+					"issueTitle": "Add Int2 column type",
+					"issueURL": "https://github.com//supabase/supabase/issues/856"
+				},
+				{
+					"issueTitle": "Allow account creation with email",
+					"issueURL": "https://github.com//supabase/supabase/issues/853"
+				},
+				{
+					"issueTitle": "Custom claims",
+					"issueURL": "https://github.com//supabase/supabase/issues/841"
+				},
+				{
+					"issueTitle": "[Feature request] Improve syntax for using typescript \"from\" function",
+					"issueURL": "https://github.com//supabase/supabase/issues/836"
+				},
+				{
+					"issueTitle": "redirectTo not respected when resetting password",
+					"issueURL": "https://github.com//supabase/supabase/issues/832"
+				},
+				{
+					"issueTitle": "Query Editor can execute query while modal is open",
+					"issueURL": "https://github.com//supabase/supabase/issues/816"
+				},
+				{
+					"issueTitle": "Downloading CSV file doesn't have .csv extension",
+					"issueURL": "https://github.com//supabase/supabase/issues/800"
+				},
+				{
+					"issueTitle": "Dismiss error toast upon clicking \"close\" button instead of automatically dismissing it",
+					"issueURL": "https://github.com//supabase/supabase/issues/779"
+				},
+				{
+					"issueTitle": "Upload CSV (144k records) server response error",
+					"issueURL": "https://github.com//supabase/supabase/issues/778"
+				},
+				{
+					"issueTitle": "Specify that a column should be unique",
+					"issueURL": "https://github.com//supabase/supabase/issues/770"
+				},
+				{
+					"issueTitle": "Table editor and Database stuck at \"Loading tables...\" after duplicating a table",
+					"issueURL": "https://github.com//supabase/supabase/issues/768"
+				},
+				{
+					"issueTitle": "Deleting table: confirm by typing table name",
+					"issueURL": "https://github.com//supabase/supabase/issues/767"
+				},
+				{
+					"issueTitle": "Improve Docs: \"More than one relationship was found...\"",
+					"issueURL": "https://github.com//supabase/supabase/issues/745"
+				},
+				{
+					"issueTitle": "Tooltips and find/replace interface partially covered in SQL editor UI",
+					"issueURL": "https://github.com//supabase/supabase/issues/702"
+				},
+				{
+					"issueTitle": "\"Invalid response received from the upstream server\" when trying to duplicate a (large?) table",
+					"issueURL": "https://github.com//supabase/supabase/issues/662"
+				},
+				{
+					"issueTitle": "Table editor: no indication / feedback that the data is being loaded",
+					"issueURL": "https://github.com//supabase/supabase/issues/660"
+				},
+				{
+					"issueTitle": "Site URL path not respected on localhost with third-party provider",
+					"issueURL": "https://github.com//supabase/supabase/issues/640"
+				},
+				{
+					"issueTitle": "Auth Policy Docs Improvement",
+					"issueURL": "https://github.com//supabase/supabase/issues/631"
+				},
+				{
+					"issueTitle": "Support for invalid postgresql identifiers",
+					"issueURL": "https://github.com//supabase/supabase/issues/607"
+				},
+				{
+					"issueTitle": "Duplicate PK (Primary Key)",
+					"issueURL": "https://github.com//supabase/supabase/issues/597"
+				},
+				{
+					"issueTitle": "Table Editor error while inserting 5000 rows via API",
+					"issueURL": "https://github.com//supabase/supabase/issues/586"
+				},
+				{
+					"issueTitle": "Incorrect width in sidebar menu items on mobile devices",
+					"issueURL": "https://github.com//supabase/supabase/issues/585"
+				},
+				{
+					"issueTitle": "Error 'All object keys must match'",
+					"issueURL": "https://github.com//supabase/supabase/issues/579"
+				},
+				{
+					"issueTitle": "Add new table row hangs with empty UUID field",
+					"issueURL": "https://github.com//supabase/supabase/issues/561"
+				}
+			]
+		},
+		{
+			"name": "react-firebase-starter",
+			"link": "https://github.com//kriasoft/react-firebase-starter",
+			"issues": [
+				{
+					"issueTitle": "How to pagination users or stories?",
+					"issueURL": "https://github.com//kriasoft/react-firebase-starter/issues/681"
+				},
+				{
+					"issueTitle": "[Question] What's the usual cost for maintaining this setup on gcloud+firebase?",
+					"issueURL": "https://github.com//kriasoft/react-firebase-starter/issues/667"
+				},
+				{
+					"issueTitle": "How to run react-firebase-starter in different GCP region",
+					"issueURL": "https://github.com//kriasoft/react-firebase-starter/issues/626"
+				},
+				{
+					"issueTitle": "[Feature Request] Scalars",
+					"issueURL": "https://github.com//kriasoft/react-firebase-starter/issues/614"
+				},
+				{
+					"issueTitle": "Cannot read property 'tap' of undefined with Typescript added",
+					"issueURL": "https://github.com//kriasoft/react-firebase-starter/issues/576"
+				},
+				{
+					"issueTitle": "Subscriptions example",
+					"issueURL": "https://github.com//kriasoft/react-firebase-starter/issues/538"
+				},
+				{
+					"issueTitle": "Admin Access",
+					"issueURL": "https://github.com//kriasoft/react-firebase-starter/issues/429"
+				},
+				{
+					"issueTitle": "Migrate from JSS styles to Emotion",
+					"issueURL": "https://github.com//kriasoft/react-firebase-starter/issues/411"
+				},
+				{
+					"issueTitle": "Add sendMessage() mutation",
+					"issueURL": "https://github.com//kriasoft/react-firebase-starter/issues/371"
+				},
+				{
+					"issueTitle": "Has anyone successfully deployed yet?",
+					"issueURL": "https://github.com//kriasoft/react-firebase-starter/issues/343"
+				},
+				{
+					"issueTitle": "TypeError: path must be a string or Buffer",
+					"issueURL": "https://github.com//kriasoft/react-firebase-starter/issues/316"
+				},
+				{
+					"issueTitle": "React 16.6 with Suspense and lazy loading components",
+					"issueURL": "https://github.com//kriasoft/react-firebase-starter/issues/315"
+				},
+				{
+					"issueTitle": "default Boilerplate error message",
+					"issueURL": "https://github.com//kriasoft/react-firebase-starter/issues/301"
+				},
+				{
+					"issueTitle": "Error while running boilerplated code",
+					"issueURL": "https://github.com//kriasoft/react-firebase-starter/issues/287"
+				},
+				{
+					"issueTitle": "Adding adsense and other scripts it makes things to load unnecessary and wrong",
+					"issueURL": "https://github.com//kriasoft/react-firebase-starter/issues/270"
+				},
+				{
+					"issueTitle": "Slash added at the end when refreshing a static page",
+					"issueURL": "https://github.com//kriasoft/react-firebase-starter/issues/269"
+				},
+				{
+					"issueTitle": "Weird caching issue",
+					"issueURL": "https://github.com//kriasoft/react-firebase-starter/issues/268"
+				},
+				{
+					"issueTitle": "`/error` route is \"loading...\" forever.. looks like a route without `query` doesn't work.",
+					"issueURL": "https://github.com//kriasoft/react-firebase-starter/issues/267"
+				},
+				{
+					"issueTitle": "Getting flow Required module not found after installing all the vs code requirements in a new project",
+					"issueURL": "https://github.com//kriasoft/react-firebase-starter/issues/266"
+				},
+				{
+					"issueTitle": "There is `registerServiceWokrer.json` instead of `registerServiceWokrer.js` on main readme page",
+					"issueURL": "https://github.com//kriasoft/react-firebase-starter/issues/265"
+				},
+				{
+					"issueTitle": "Schema",
+					"issueURL": "https://github.com//kriasoft/react-firebase-starter/issues/264"
+				},
+				{
+					"issueTitle": "Mutation example needed",
+					"issueURL": "https://github.com//kriasoft/react-firebase-starter/issues/262"
+				},
+				{
+					"issueTitle": "Error Refresh Page Site Posted in AWS",
+					"issueURL": "https://github.com//kriasoft/react-firebase-starter/issues/261"
+				},
+				{
+					"issueTitle": "code splitting",
+					"issueURL": "https://github.com//kriasoft/react-firebase-starter/issues/260"
+				},
+				{
+					"issueTitle": "Schema downloading on setup",
+					"issueURL": "https://github.com//kriasoft/react-firebase-starter/issues/259"
+				}
+			]
+		},
+		{
+			"name": "flutterfire",
+			"link": "https://github.com//FirebaseExtended/flutterfire",
+			"issues": [
+				{
+					"issueTitle": "🐛 [firebase_dynamic_links] Null safety warning missing",
+					"issueURL": "https://github.com//FirebaseExtended/flutterfire/issues/5338"
+				},
+				{
+					"issueTitle": "🐛 [PhoneAuthProvider] credential incompatibility with currentUser.updatePhoneNumber",
+					"issueURL": "https://github.com//FirebaseExtended/flutterfire/issues/5337"
+				},
+				{
+					"issueTitle": "🐛 [cloud_firestore] [web] Error: [cloud_firestore/unknown] Expected a value of type 'Object', but got one of type 'Null'",
+					"issueURL": "https://github.com//FirebaseExtended/flutterfire/issues/5334"
+				},
+				{
+					"issueTitle": "🐛 [firebase_in_app_messaging] in-app message popup not show when Firebase event trigger",
+					"issueURL": "https://github.com//FirebaseExtended/flutterfire/issues/5331"
+				},
+				{
+					"issueTitle": "🐛 [firebase_auth] No code auto retrieval",
+					"issueURL": "https://github.com//FirebaseExtended/flutterfire/issues/5330"
+				},
+				{
+					"issueTitle": "🐛 [firebase_messaging] Adding latest version to project blocks app badge on macOS",
+					"issueURL": "https://github.com//FirebaseExtended/flutterfire/issues/5328"
+				},
+				{
+					"issueTitle": "[📚] Cloud_firestore Source unclear error documentation",
+					"issueURL": "https://github.com//FirebaseExtended/flutterfire/issues/5326"
+				},
+				{
+					"issueTitle": "support for windows desktop firebase",
+					"issueURL": "https://github.com//FirebaseExtended/flutterfire/issues/5325"
+				},
+				{
+					"issueTitle": "🐛 [Firebase_messaging] OnMessage and OnMessageOpenedApp not handling events",
+					"issueURL": "https://github.com//FirebaseExtended/flutterfire/issues/5324"
+				},
+				{
+					"issueTitle": "🐛 [Firebase Auth] Null check operator used on a null value after signInWithCredential or linkWithCredential",
+					"issueURL": "https://github.com//FirebaseExtended/flutterfire/issues/5323"
+				},
+				{
+					"issueTitle": "🐛 [ Firebase Message] Unhandled Exception: NoSuchMethodError: The method 'toRawHandle' was called on null.",
+					"issueURL": "https://github.com//FirebaseExtended/flutterfire/issues/5320"
+				},
+				{
+					"issueTitle": "🐛 [firebase_core] Undefined name 'Firebase'. Try correcting the name to one that is defined, or defining the name.",
+					"issueURL": "https://github.com//FirebaseExtended/flutterfire/issues/5317"
+				},
+				{
+					"issueTitle": "🐛 [firebase_firestore] Exception during transaction propagates differently on Android and on web.",
+					"issueURL": "https://github.com//FirebaseExtended/flutterfire/issues/5316"
+				},
+				{
+					"issueTitle": "🐛 [firebase_analytics] don't use language version 2.12 when not migrating to null-safety",
+					"issueURL": "https://github.com//FirebaseExtended/flutterfire/issues/5311"
+				},
+				{
+					"issueTitle": "🐛 [firebase_messaging] / [firebase_crashlytics] \"Appname wants to use your confidential information\" repeatedly appearing on macOS",
+					"issueURL": "https://github.com//FirebaseExtended/flutterfire/issues/5306"
+				},
+				{
+					"issueTitle": "cloud_firestore_web package not working in Flutter 2 web",
+					"issueURL": "https://github.com//FirebaseExtended/flutterfire/issues/5301"
+				},
+				{
+					"issueTitle": "🐛 [Firebase Performance] Duplicate class build error",
+					"issueURL": "https://github.com//FirebaseExtended/flutterfire/issues/5295"
+				},
+				{
+					"issueTitle": "🐛 [firebase_analytics] Impossible to use on web when loaded asynchronously",
+					"issueURL": "https://github.com//FirebaseExtended/flutterfire/issues/5293"
+				},
+				{
+					"issueTitle": "🐛 [cloud_firestore] 'Object.==' and Mockito",
+					"issueURL": "https://github.com//FirebaseExtended/flutterfire/issues/5288"
+				},
+				{
+					"issueTitle": "🐛 [firebase_messaging] Flutter Web can't initialize after upgrading to 9.0.0",
+					"issueURL": "https://github.com//FirebaseExtended/flutterfire/issues/5287"
+				},
+				{
+					"issueTitle": "🐛 [cloud_firestore] A problem occurred evaluating root project 'cloud_firestore' (cannot build appbundle)",
+					"issueURL": "https://github.com//FirebaseExtended/flutterfire/issues/5285"
+				},
+				{
+					"issueTitle": "verifyPhoneNumber() is not available on MacOS platforms",
+					"issueURL": "https://github.com//FirebaseExtended/flutterfire/issues/5278"
+				},
+				{
+					"issueTitle": "[📚] \"Improve iOS Build Times\" specify incorrect pod version for Flutter 2.0",
+					"issueURL": "https://github.com//FirebaseExtended/flutterfire/issues/5260"
+				},
+				{
+					"issueTitle": "🐛 [firebase_database] unpredictable behavior when querying data with once()",
+					"issueURL": "https://github.com//FirebaseExtended/flutterfire/issues/5248"
+				},
+				{
+					"issueTitle": "🐛 [firebase_auth] verifyBeforeUpdateEmail causes exception on Firebase Emulator",
+					"issueURL": "https://github.com//FirebaseExtended/flutterfire/issues/5244"
+				}
+			]
+		},
+		{
+			"name": "FirebaseUI-Android",
+			"link": "https://github.com//firebase/FirebaseUI-Android",
+			"issues": [
+				{
+					"issueTitle": "Getting crash in FirebaseRecyclerAdapter",
+					"issueURL": "https://github.com//firebase/FirebaseUI-Android/issues/1919"
+				},
+				{
+					"issueTitle": "[Feature Request] Jetpack Compose Support for AuthUI",
+					"issueURL": "https://github.com//firebase/FirebaseUI-Android/issues/1917"
+				},
+				{
+					"issueTitle": "[Feature Request] Support Activity Result APIs for AuthUI",
+					"issueURL": "https://github.com//firebase/FirebaseUI-Android/issues/1916"
+				},
+				{
+					"issueTitle": "Add ability to specify default_web_client_id at runtime",
+					"issueURL": "https://github.com//firebase/FirebaseUI-Android/issues/1911"
+				},
+				{
+					"issueTitle": "Upload artifacts to Maven Central",
+					"issueURL": "https://github.com//firebase/FirebaseUI-Android/issues/1910"
+				},
+				{
+					"issueTitle": "Outdated documentation for email-link setup",
+					"issueURL": "https://github.com//firebase/FirebaseUI-Android/issues/1909"
+				},
+				{
+					"issueTitle": "Error message when user is offline.",
+					"issueURL": "https://github.com//firebase/FirebaseUI-Android/issues/1908"
+				},
+				{
+					"issueTitle": "Progress Indication - Replace third party library with material components LinearProgressIndicator",
+					"issueURL": "https://github.com//firebase/FirebaseUI-Android/issues/1907"
+				},
+				{
+					"issueTitle": "Remove whitelist and blacklist from the API",
+					"issueURL": "https://github.com//firebase/FirebaseUI-Android/issues/1906"
+				},
+				{
+					"issueTitle": "If you add any Google Drive scope to GoogleBuilder using setScopes() function, login screen shows white screen dialog with progress..",
+					"issueURL": "https://github.com//firebase/FirebaseUI-Android/issues/1902"
+				},
+				{
+					"issueTitle": "FirebaseUI not compatible with \"Theme.MaterialComponents.*\" styling",
+					"issueURL": "https://github.com//firebase/FirebaseUI-Android/issues/1901"
+				},
+				{
+					"issueTitle": "Please do not force email scope for Google Sign In",
+					"issueURL": "https://github.com//firebase/FirebaseUI-Android/issues/1899"
+				},
+				{
+					"issueTitle": "Country code missing",
+					"issueURL": "https://github.com//firebase/FirebaseUI-Android/issues/1898"
+				},
+				{
+					"issueTitle": "Email link sign in button not shown when using custom layout",
+					"issueURL": "https://github.com//firebase/FirebaseUI-Android/issues/1885"
+				},
+				{
+					"issueTitle": "common_google_play_services_unsupported_text",
+					"issueURL": "https://github.com//firebase/FirebaseUI-Android/issues/1884"
+				},
+				{
+					"issueTitle": "How to update the query at run time using the same adapter and in same fragment.",
+					"issueURL": "https://github.com//firebase/FirebaseUI-Android/issues/1883"
+				},
+				{
+					"issueTitle": "Once you log in with twitter account, you can't switch it",
+					"issueURL": "https://github.com//firebase/FirebaseUI-Android/issues/1878"
+				},
+				{
+					"issueTitle": "Crash: ActivityNotFoundException: No Activity found to handle null",
+					"issueURL": "https://github.com//firebase/FirebaseUI-Android/issues/1873"
+				},
+				{
+					"issueTitle": "App crash : com.firebase.ui.auth.util.ui.PreambleHandler$CustomTabsSpan.onClick",
+					"issueURL": "https://github.com//firebase/FirebaseUI-Android/issues/1848"
+				},
+				{
+					"issueTitle": "Update com.android.tools.build:gradle:4.1.0 crash at com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity.populateIdpList",
+					"issueURL": "https://github.com//firebase/FirebaseUI-Android/issues/1847"
+				},
+				{
+					"issueTitle": "When trying to start a Google login flow on this specific device I get ERROCODE 10",
+					"issueURL": "https://github.com//firebase/FirebaseUI-Android/issues/1846"
+				},
+				{
+					"issueTitle": "updateOptions() blinks the recyclerview while changing items",
+					"issueURL": "https://github.com//firebase/FirebaseUI-Android/issues/1843"
+				},
+				{
+					"issueTitle": "GlideException: Failed to load resource",
+					"issueURL": "https://github.com//firebase/FirebaseUI-Android/issues/1842"
+				},
+				{
+					"issueTitle": "FirebaseUI-FirebaseRecyclerAdapter is not supported by NavigationUI",
+					"issueURL": "https://github.com//firebase/FirebaseUI-Android/issues/1836"
+				},
+				{
+					"issueTitle": "Firebase App Indexing and FirebaseUI Auth - Apple Integration - fail to open brower",
+					"issueURL": "https://github.com//firebase/FirebaseUI-Android/issues/1833"
+				}
+			]
+		}
+	],
+	"TypeScript": [
+		{
+			"name": "vscode",
+			"link": "https://github.com//microsoft/vscode",
+			"issues": [
+				{
+					"issueTitle": "The TypeScript language service died unexpectedly 5 times in the last 5 Minutes.",
+					"issueURL": "https://github.com//microsoft/vscode/issues/118874"
+				},
+				{
+					"issueTitle": "A Search feature like in Web Storm",
+					"issueURL": "https://github.com//microsoft/vscode/issues/118873"
+				},
+				{
+					"issueTitle": "Add support for Kotlin Language Symbols",
+					"issueURL": "https://github.com//microsoft/vscode/issues/118871"
+				},
+				{
+					"issueTitle": "VS Code Server for WSL failed to start after upgrade to VS Code 1.54.2",
+					"issueURL": "https://github.com//microsoft/vscode/issues/118870"
+				},
+				{
+					"issueTitle": "X11: The DISPLAY environment variable is missing",
+					"issueURL": "https://github.com//microsoft/vscode/issues/118869"
+				},
+				{
+					"issueTitle": "bug",
+					"issueURL": "https://github.com//microsoft/vscode/issues/118868"
+				},
+				{
+					"issueTitle": "Improve sort order in open editors",
+					"issueURL": "https://github.com//microsoft/vscode/issues/118867"
+				},
+				{
+					"issueTitle": "Providing the dropdown-list of devices/emulators/simulators for running flutter apps.",
+					"issueURL": "https://github.com//microsoft/vscode/issues/118866"
+				},
+				{
+					"issueTitle": "toggle line coment does not",
+					"issueURL": "https://github.com//microsoft/vscode/issues/118863"
+				},
+				{
+					"issueTitle": "debug",
+					"issueURL": "https://github.com//microsoft/vscode/issues/118862"
+				},
+				{
+					"issueTitle": "super slow vscode",
+					"issueURL": "https://github.com//microsoft/vscode/issues/118861"
+				},
+				{
+					"issueTitle": "IntelliSense should responsive to function overloading | Typescript",
+					"issueURL": "https://github.com//microsoft/vscode/issues/118860"
+				},
+				{
+					"issueTitle": "Add a \"Troubleshooting\" section to getting started page",
+					"issueURL": "https://github.com//microsoft/vscode/issues/118859"
+				},
+				{
+					"issueTitle": "\"remote.autoForwardPortsSource\": \"output\" maybe not respected?",
+					"issueURL": "https://github.com//microsoft/vscode/issues/118858"
+				},
+				{
+					"issueTitle": "【bug】git.stageSelectedRanges will change my file-encoding",
+					"issueURL": "https://github.com//microsoft/vscode/issues/118857"
+				},
+				{
+					"issueTitle": "URL not differentiable from other strings in editor like in Atom Editor",
+					"issueURL": "https://github.com//microsoft/vscode/issues/118856"
+				},
+				{
+					"issueTitle": "扩展设置分类与注释和扩展与账号同步",
+					"issueURL": "https://github.com//microsoft/vscode/issues/118855"
+				},
+				{
+					"issueTitle": "[folding] Preserve comment folding for developer UX and sanity",
+					"issueURL": "https://github.com//microsoft/vscode/issues/118853"
+				},
+				{
+					"issueTitle": "Reduce Sash Minimum size",
+					"issueURL": "https://github.com//microsoft/vscode/issues/118852"
+				},
+				{
+					"issueTitle": "Debian freezes repeatedly: vscode + nvidia driver",
+					"issueURL": "https://github.com//microsoft/vscode/issues/118851"
+				},
+				{
+					"issueTitle": "No crash report is generated for our extension's cpptools-srv child process",
+					"issueURL": "https://github.com//microsoft/vscode/issues/118850"
+				},
+				{
+					"issueTitle": "Icon for .eslintcache",
+					"issueURL": "https://github.com//microsoft/vscode/issues/118849"
+				},
+				{
+					"issueTitle": "powershell terminal does not default to cwd",
+					"issueURL": "https://github.com//microsoft/vscode/issues/118848"
+				},
+				{
+					"issueTitle": "no module named ***",
+					"issueURL": "https://github.com//microsoft/vscode/issues/118847"
+				},
+				{
+					"issueTitle": "source control",
+					"issueURL": "https://github.com//microsoft/vscode/issues/118845"
+				}
+			]
+		},
+		{
+			"name": "deno",
+			"link": "https://github.com//denoland/deno",
+			"issues": [
+				{
+					"issueTitle": "Deno bundle error with constructor property initialisation",
+					"issueURL": "https://github.com//denoland/deno/issues/9773"
+				},
+				{
+					"issueTitle": "crypto.getRandomValues() inside worker throws invalid op id: expected type `rusty_v8::data::Integer`, got `rusty_v8::data::Value`",
+					"issueURL": "https://github.com//denoland/deno/issues/9772"
+				},
+				{
+					"issueTitle": "'--unstable' flag message is not displayed",
+					"issueURL": "https://github.com//denoland/deno/issues/9763"
+				},
+				{
+					"issueTitle": "Improve error message when encountering an unsupported media type",
+					"issueURL": "https://github.com//denoland/deno/issues/9762"
+				},
+				{
+					"issueTitle": "The result value is also highlighted in the REPL.",
+					"issueURL": "https://github.com//denoland/deno/issues/9761"
+				},
+				{
+					"issueTitle": "`deno test --coverage` doesn't seem accurate",
+					"issueURL": "https://github.com//denoland/deno/issues/9754"
+				},
+				{
+					"issueTitle": "thread 'main' has overflowed its stack using Deno bundle (Windows)",
+					"issueURL": "https://github.com//denoland/deno/issues/9752"
+				},
+				{
+					"issueTitle": "Runtime permissions request should fully consume STDIN before asking for user input",
+					"issueURL": "https://github.com//denoland/deno/issues/9750"
+				},
+				{
+					"issueTitle": "Deno coverage panic with import-maps",
+					"issueURL": "https://github.com//denoland/deno/issues/9747"
+				},
+				{
+					"issueTitle": "Improving op_crate API and registering ops",
+					"issueURL": "https://github.com//denoland/deno/issues/9738"
+				},
+				{
+					"issueTitle": "Make TypeScript diagnostics non-fatal",
+					"issueURL": "https://github.com//denoland/deno/issues/9737"
+				},
+				{
+					"issueTitle": "Reenable \"compile_windows_ext\" test",
+					"issueURL": "https://github.com//denoland/deno/issues/9734"
+				},
+				{
+					"issueTitle": "🐛 `deno eval ...` doesn't automatically re-compile/eval supplied CODE_ARG (Windows)",
+					"issueURL": "https://github.com//denoland/deno/issues/9733"
+				},
+				{
+					"issueTitle": "Goto Type Definition broken for cdn.skypack.dev",
+					"issueURL": "https://github.com//denoland/deno/issues/9741"
+				},
+				{
+					"issueTitle": "[feat] TypeScript Compiler Monitor",
+					"issueURL": "https://github.com//denoland/deno/issues/9724"
+				},
+				{
+					"issueTitle": "LSP: Error getting actions from TypeScript - error code: -32603",
+					"issueURL": "https://github.com//denoland/deno/issues/9715"
+				},
+				{
+					"issueTitle": "Add a link to the Deno Discord in the Readme",
+					"issueURL": "https://github.com//denoland/deno/issues/9712"
+				},
+				{
+					"issueTitle": "Request: Add Web Serial to Deno",
+					"issueURL": "https://github.com//denoland/deno/issues/9710"
+				},
+				{
+					"issueTitle": "deno lsp, deno-ts: Property 'postMessage' does not exist on type 'Window & typeof globalThis'.deno-ts(2339)",
+					"issueURL": "https://github.com//denoland/deno/issues/9696"
+				},
+				{
+					"issueTitle": "deno lsp: WebWorker will not be treated as Module",
+					"issueURL": "https://github.com//denoland/deno/issues/9694"
+				},
+				{
+					"issueTitle": "Format `lock.json` and `deno test --coverage` files with deno fmt",
+					"issueURL": "https://github.com//denoland/deno/issues/9693"
+				},
+				{
+					"issueTitle": "Elusive TLS Windows issue with binary data (png files)",
+					"issueURL": "https://github.com//denoland/deno/issues/9692"
+				},
+				{
+					"issueTitle": "Support navigator.onLine and online/offline events",
+					"issueURL": "https://github.com//denoland/deno/issues/9689"
+				},
+				{
+					"issueTitle": "Building Alpine linux now requires libc++ (and then prints warnings)",
+					"issueURL": "https://github.com//denoland/deno/issues/9686"
+				},
+				{
+					"issueTitle": "Import map works with `deno run` but extension reports errors",
+					"issueURL": "https://github.com//denoland/deno/issues/9744"
+				}
+			]
+		},
+		{
+			"name": "angular",
+			"link": "https://github.com//angular/angular",
+			"issues": [
+				{
+					"issueTitle": "vscode ignore 'include' section in tsconfig.app.json in angular project",
+					"issueURL": "https://github.com//angular/angular/issues/41199"
+				},
+				{
+					"issueTitle": "Error when import FormsModule into my app module",
+					"issueURL": "https://github.com//angular/angular/issues/41198"
+				},
+				{
+					"issueTitle": "docs: content with new inline code style is difficult to read",
+					"issueURL": "https://github.com//angular/angular/issues/41196"
+				},
+				{
+					"issueTitle": "Adding click event handler with capture set to true interferes with click handlers on items generated by NgFor.",
+					"issueURL": "https://github.com//angular/angular/issues/41192"
+				},
+				{
+					"issueTitle": "Docs: Update testing coverage guide",
+					"issueURL": "https://github.com//angular/angular/issues/41188"
+				},
+				{
+					"issueTitle": "docs: add section on how to client side render the app when using angular universal",
+					"issueURL": "https://github.com//angular/angular/issues/41187"
+				},
+				{
+					"issueTitle": "Angular should support all the official HTML Entities",
+					"issueURL": "https://github.com//angular/angular/issues/41186"
+				},
+				{
+					"issueTitle": "Document return value for bodyless HTTP response status codes",
+					"issueURL": "https://github.com//angular/angular/issues/41148"
+				},
+				{
+					"issueTitle": "Debug module `ng` has no types",
+					"issueURL": "https://github.com//angular/angular/issues/41137"
+				},
+				{
+					"issueTitle": "outerHTML binding update causes error",
+					"issueURL": "https://github.com//angular/angular/issues/41131"
+				},
+				{
+					"issueTitle": "docs-infra - render options for decorators that are aliases of `Query`",
+					"issueURL": "https://github.com//angular/angular/issues/41130"
+				},
+				{
+					"issueTitle": "[docs-infra] Remove the code added in #41106 to reduce bundle size",
+					"issueURL": "https://github.com//angular/angular/issues/41117"
+				},
+				{
+					"issueTitle": "Callback back for angular template compiler",
+					"issueURL": "https://github.com//angular/angular/issues/41115"
+				},
+				{
+					"issueTitle": "Request: Expose comment nodes on AST from parseTemplate() to enable linter comments",
+					"issueURL": "https://github.com//angular/angular/issues/41112"
+				},
+				{
+					"issueTitle": "ErrorHandler intercepts HttpErrorResponse with HttpStatusCode 0",
+					"issueURL": "https://github.com//angular/angular/issues/41089"
+				},
+				{
+					"issueTitle": "Get changed property in FormGroups valueChanges",
+					"issueURL": "https://github.com//angular/angular/issues/41088"
+				},
+				{
+					"issueTitle": "Default @angular/pwa install doesn't pass Chrome 89 offline support detection",
+					"issueURL": "https://github.com//angular/angular/issues/41085"
+				},
+				{
+					"issueTitle": "provide api to reorganize the content inside hostView and <ng-content>",
+					"issueURL": "https://github.com//angular/angular/issues/41074"
+				},
+				{
+					"issueTitle": "__ngContext__ magnifies native Chrome memory leaks",
+					"issueURL": "https://github.com//angular/angular/issues/41047"
+				},
+				{
+					"issueTitle": "optimize angular template compile progress",
+					"issueURL": "https://github.com//angular/angular/issues/41044"
+				},
+				{
+					"issueTitle": "Compiler in LS mode should report when TTC _could_ use context guard(s), but doesn't because of flags",
+					"issueURL": "https://github.com//angular/angular/issues/41042"
+				},
+				{
+					"issueTitle": "Huge performance drop after upgrade to Angular 11",
+					"issueURL": "https://github.com//angular/angular/issues/41038"
+				},
+				{
+					"issueTitle": "extract-i18n with HTML entities and interpolation",
+					"issueURL": "https://github.com//angular/angular/issues/41034"
+				},
+				{
+					"issueTitle": "Remove unmaintained projects from resources page",
+					"issueURL": "https://github.com//angular/angular/issues/41030"
+				},
+				{
+					"issueTitle": "Improve DX for identifying missing or unused module imports",
+					"issueURL": "https://github.com//angular/angular/issues/41028"
+				}
+			]
+		},
+		{
+			"name": "TypeScript",
+			"link": "https://github.com//microsoft/TypeScript",
+			"issues": [
+				{
+					"issueTitle": "Unexpected runtime difference when using Brackets or not with `ts-node`",
+					"issueURL": "https://github.com//microsoft/TypeScript/issues/43230"
+				},
+				{
+					"issueTitle": "Optionality is not preserved when mapping a mapped type with generics",
+					"issueURL": "https://github.com//microsoft/TypeScript/issues/43227"
+				},
+				{
+					"issueTitle": "Compiler crashes",
+					"issueURL": "https://github.com//microsoft/TypeScript/issues/43226"
+				},
+				{
+					"issueTitle": "NodeList and DOMTokenList are iterable",
+					"issueURL": "https://github.com//microsoft/TypeScript/issues/43225"
+				},
+				{
+					"issueTitle": "Interface implement with read only properties.",
+					"issueURL": "https://github.com//microsoft/TypeScript/issues/43224"
+				},
+				{
+					"issueTitle": "Narrow unnecessarily ambiguous Date.getMonth return type.",
+					"issueURL": "https://github.com//microsoft/TypeScript/issues/43222"
+				},
+				{
+					"issueTitle": "Symbol-named properties unable to be used as a discriminator",
+					"issueURL": "https://github.com//microsoft/TypeScript/issues/43220"
+				},
+				{
+					"issueTitle": "Design Meeting Notes, 3/12/2021",
+					"issueURL": "https://github.com//microsoft/TypeScript/issues/43219"
+				},
+				{
+					"issueTitle": "Static constructor",
+					"issueURL": "https://github.com//microsoft/TypeScript/issues/43216"
+				},
+				{
+					"issueTitle": "Reserved type primitive names should not be allowed as interface names",
+					"issueURL": "https://github.com//microsoft/TypeScript/issues/43215"
+				},
+				{
+					"issueTitle": "'Composite: true + Incremental: true' excessively increases compilation times",
+					"issueURL": "https://github.com//microsoft/TypeScript/issues/43214"
+				},
+				{
+					"issueTitle": "Duplicate JSDoc in union of derived interfaces",
+					"issueURL": "https://github.com//microsoft/TypeScript/issues/43213"
+				},
+				{
+					"issueTitle": "Developing a JSX framework and jsxImportSource makes TypeScript slow",
+					"issueURL": "https://github.com//microsoft/TypeScript/issues/43212"
+				},
+				{
+					"issueTitle": "Ensure 'in' does not operate on primitive types",
+					"issueURL": "https://github.com//microsoft/TypeScript/issues/43210"
+				},
+				{
+					"issueTitle": "Record is inlined in declaration emit after 4.2",
+					"issueURL": "https://github.com//microsoft/TypeScript/issues/43209"
+				},
+				{
+					"issueTitle": "JSDoc doesn't actually handle dictionary declaration like it says it should",
+					"issueURL": "https://github.com//microsoft/TypeScript/issues/43208"
+				},
+				{
+					"issueTitle": "Limit JSDoc typedefs to file, opt-in to exporting them",
+					"issueURL": "https://github.com//microsoft/TypeScript/issues/43207"
+				},
+				{
+					"issueTitle": "Throw function should return by default never instead of returning void <Typescript>",
+					"issueURL": "https://github.com//microsoft/TypeScript/issues/43206"
+				},
+				{
+					"issueTitle": "Failing to raise undeclared error on set only accessor",
+					"issueURL": "https://github.com//microsoft/TypeScript/issues/43203"
+				},
+				{
+					"issueTitle": "Misleading error message for duplicate CLI flags",
+					"issueURL": "https://github.com//microsoft/TypeScript/issues/43201"
+				},
+				{
+					"issueTitle": "Bug: Argument of string literals list can't be used to construct template literal type",
+					"issueURL": "https://github.com//microsoft/TypeScript/issues/43198"
+				},
+				{
+					"issueTitle": "Misleading \"Unknown compiler option '--clean'\" when --build not provided",
+					"issueURL": "https://github.com//microsoft/TypeScript/issues/43196"
+				},
+				{
+					"issueTitle": "Property 'resourceUsage' does not exist on type 'Process'",
+					"issueURL": "https://github.com//microsoft/TypeScript/issues/43195"
+				},
+				{
+					"issueTitle": "Allow prepending --watch with --clean in CLI --build mode?",
+					"issueURL": "https://github.com//microsoft/TypeScript/issues/43193"
+				},
+				{
+					"issueTitle": "Conditional type inference regression in 4.2*",
+					"issueURL": "https://github.com//microsoft/TypeScript/issues/43192"
+				}
+			]
+		},
+		{
+			"name": "material-ui",
+			"link": "https://github.com//mui-org/material-ui",
+			"issues": [
+				{
+					"issueTitle": "[docs] Use integerPropType where relevant",
+					"issueURL": "https://github.com//mui-org/material-ui/issues/25327"
+				},
+				{
+					"issueTitle": "[SpeedDial] Cannot open with Enter/Space after closed via Escape",
+					"issueURL": "https://github.com//mui-org/material-ui/issues/25326"
+				},
+				{
+					"issueTitle": "class from `makeStyles` is overridden, only in production build",
+					"issueURL": "https://github.com//mui-org/material-ui/issues/25324"
+				},
+				{
+					"issueTitle": "[Divider] Support \"middle\" variant with \"vertical\" orientation",
+					"issueURL": "https://github.com//mui-org/material-ui/issues/25321"
+				},
+				{
+					"issueTitle": "Unable to disable scroll animation on Tabs component",
+					"issueURL": "https://github.com//mui-org/material-ui/issues/25314"
+				},
+				{
+					"issueTitle": "classes provided to the Select component are directed to the input element instead of the root",
+					"issueURL": "https://github.com//mui-org/material-ui/issues/25313"
+				},
+				{
+					"issueTitle": "Gatsby Next example for MUI v5 not working in SSR",
+					"issueURL": "https://github.com//mui-org/material-ui/issues/25312"
+				},
+				{
+					"issueTitle": "Drawer does not transition closed when initialised as open",
+					"issueURL": "https://github.com//mui-org/material-ui/issues/25310"
+				},
+				{
+					"issueTitle": "Material-UI 4 example does not work properly with nextjs getStaticProps revalidate and causes wrong order of head tags",
+					"issueURL": "https://github.com//mui-org/material-ui/issues/25307"
+				},
+				{
+					"issueTitle": "[Snackbar] prop \"key\" is not passed to child components",
+					"issueURL": "https://github.com//mui-org/material-ui/issues/25304"
+				},
+				{
+					"issueTitle": "error 405, i try add the packages @material-ui/icons but the i have retorned code 405",
+					"issueURL": "https://github.com//mui-org/material-ui/issues/25298"
+				},
+				{
+					"issueTitle": "Unable to install datepicker",
+					"issueURL": "https://github.com//mui-org/material-ui/issues/25290"
+				},
+				{
+					"issueTitle": "[RFC] Autocomplete still show results after selected",
+					"issueURL": "https://github.com//mui-org/material-ui/issues/25289"
+				},
+				{
+					"issueTitle": "[Tooltip] Not shown on focus on touch devices",
+					"issueURL": "https://github.com//mui-org/material-ui/issues/25283"
+				},
+				{
+					"issueTitle": "[ButtonGroup] Non-homogeneous border",
+					"issueURL": "https://github.com//mui-org/material-ui/issues/25280"
+				},
+				{
+					"issueTitle": "[Button] Submit is always triggered v5",
+					"issueURL": "https://github.com//mui-org/material-ui/issues/25278"
+				},
+				{
+					"issueTitle": "[useAutocomplete] Cannot read property 'removeAttribute' of null in autocomplete input",
+					"issueURL": "https://github.com//mui-org/material-ui/issues/25273"
+				},
+				{
+					"issueTitle": "[Drawer] RTL is broken in v5",
+					"issueURL": "https://github.com//mui-org/material-ui/issues/25217"
+				},
+				{
+					"issueTitle": "[GlobalStyles] `styles` type is probably too wide",
+					"issueURL": "https://github.com//mui-org/material-ui/issues/25208"
+				},
+				{
+					"issueTitle": "[Popover] Not getting correct anchor offset if container is set and the container has certain CSS properties",
+					"issueURL": "https://github.com//mui-org/material-ui/issues/25204"
+				},
+				{
+					"issueTitle": "Props of Alert component cannot pass type checking when override Box component.",
+					"issueURL": "https://github.com//mui-org/material-ui/issues/25201"
+				},
+				{
+					"issueTitle": "Different scrollbar break design with modal",
+					"issueURL": "https://github.com//mui-org/material-ui/issues/25195"
+				},
+				{
+					"issueTitle": "Responsive components : Container Queries",
+					"issueURL": "https://github.com//mui-org/material-ui/issues/25189"
+				},
+				{
+					"issueTitle": "[Chip] When used as Popover trigger, focus not returned upon closing",
+					"issueURL": "https://github.com//mui-org/material-ui/issues/25181"
+				},
+				{
+					"issueTitle": "[useFocusVisible] Don't trigger when coming back from another window",
+					"issueURL": "https://github.com//mui-org/material-ui/issues/25171"
+				}
+			]
+		},
+		{
+			"name": "storybook",
+			"link": "https://github.com//storybookjs/storybook",
+			"issues": [
+				{
+					"issueTitle": "Object control does not work with value property containing string with commas",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14225"
+				},
+				{
+					"issueTitle": "[6.2.0-beta.14] using asset/source Webpack 5 loader returns export string",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14222"
+				},
+				{
+					"issueTitle": "Change default main.js config for svelte project",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14221"
+				},
+				{
+					"issueTitle": "Version 6.1.21 of `@storybook/vue` breaks '*.vue' module types",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14220"
+				},
+				{
+					"issueTitle": "Old images for new docs",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14218"
+				},
+				{
+					"issueTitle": "Need a reliable way to test if storybook page is ready programatically",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14216"
+				},
+				{
+					"issueTitle": "[6.2.0-beta.14] Unknown exception created by Scroller",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14214"
+				},
+				{
+					"issueTitle": "[6.2b] ReferenceError React is not defined",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14208"
+				},
+				{
+					"issueTitle": "Search input activated when pressing '/' in text knob/control",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14207"
+				},
+				{
+					"issueTitle": "dispatched CustomEvent not showing up in Actions",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14205"
+				},
+				{
+					"issueTitle": "Range slider value label changes handle position and causes jittering",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14204"
+				},
+				{
+					"issueTitle": "MDX fails to render docs with Vue3",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14201"
+				},
+				{
+					"issueTitle": "Storybook 6.2.0-beta.13 not transforming class properties",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14197"
+				},
+				{
+					"issueTitle": "Typescript React event type references are not recognized as a function",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14194"
+				},
+				{
+					"issueTitle": "Angular source code view unavailable until control toggled",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14193"
+				},
+				{
+					"issueTitle": "[Angular] Generated attributes with auto generated id (like nghost)",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14192"
+				},
+				{
+					"issueTitle": "Unable to resolve path to module '@storybook/react/types-6-0'",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14190"
+				},
+				{
+					"issueTitle": "Solution for duplicate kinds in a distributed fashion",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14189"
+				},
+				{
+					"issueTitle": "MDX auto HeaderWithOcticonAnchor links in iframe have incorrect url.",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14188"
+				},
+				{
+					"issueTitle": "Add option to show globalTypes name in toolbar",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14187"
+				},
+				{
+					"issueTitle": "Allow custom URLs in `outputStartupInformation`",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14185"
+				},
+				{
+					"issueTitle": "ArgsTable not working for Web Components in MDX",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14180"
+				},
+				{
+					"issueTitle": "Actions panel not clickable",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14178"
+				},
+				{
+					"issueTitle": "Skip eslint/prettier error in development mode",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14177"
+				},
+				{
+					"issueTitle": "validateDOMNesting error when displaying a URL generated by compodocs",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14176"
+				}
+			]
+		},
+		{
+			"name": "ionic-framework",
+			"link": "https://github.com//ionic-team/ionic-framework",
+			"issues": [
+				{
+					"issueTitle": "bug: iOS NavController animates too much slide",
+					"issueURL": "https://github.com//ionic-team/ionic-framework/issues/23042"
+				},
+				{
+					"issueTitle": "bug: Toggle firing click event twice",
+					"issueURL": "https://github.com//ionic-team/ionic-framework/issues/23041"
+				},
+				{
+					"issueTitle": "bug: iOs bug keyboard resize",
+					"issueURL": "https://github.com//ionic-team/ionic-framework/issues/23038"
+				},
+				{
+					"issueTitle": "bug: Duplicate Alert button handler 'role' values cause incorrect handlers to be executed",
+					"issueURL": "https://github.com//ionic-team/ionic-framework/issues/23037"
+				},
+				{
+					"issueTitle": "bug: onclick event don't work with ionic started on existing react project",
+					"issueURL": "https://github.com//ionic-team/ionic-framework/issues/23033"
+				},
+				{
+					"issueTitle": "bug(overlay): alert/modal not showing with element build (5.6.0)",
+					"issueURL": "https://github.com//ionic-team/ionic-framework/issues/23029"
+				},
+				{
+					"issueTitle": "feat: on ion-router change events, attach information about route that will/did change",
+					"issueURL": "https://github.com//ionic-team/ionic-framework/issues/23026"
+				},
+				{
+					"issueTitle": "bug: Nested ion-reorder-group not working",
+					"issueURL": "https://github.com//ionic-team/ionic-framework/issues/23022"
+				},
+				{
+					"issueTitle": "bug: [angular] cursor doesn't move in <ion-input> in responsive form after setValue() for form control and setting selectionStart/End for input",
+					"issueURL": "https://github.com//ionic-team/ionic-framework/issues/23016"
+				},
+				{
+					"issueTitle": "bug: card style modal should be rounder when on notch iphones",
+					"issueURL": "https://github.com//ionic-team/ionic-framework/issues/23015"
+				},
+				{
+					"issueTitle": "bug: [react] router outlet destroys route if it is not a direct child",
+					"issueURL": "https://github.com//ionic-team/ionic-framework/issues/23013"
+				},
+				{
+					"issueTitle": "bug: ios, delegatesFocus always focuses first focusable element",
+					"issueURL": "https://github.com//ionic-team/ionic-framework/issues/23002"
+				},
+				{
+					"issueTitle": "bug: ios, scroll latching incorrect on pwas",
+					"issueURL": "https://github.com//ionic-team/ionic-framework/issues/23001"
+				},
+				{
+					"issueTitle": "feat: capture groups and back references in ion-route-redirect",
+					"issueURL": "https://github.com//ionic-team/ionic-framework/issues/22996"
+				},
+				{
+					"issueTitle": "bug: Input overlaps Label in MD mode causing a11y WCAG warning",
+					"issueURL": "https://github.com//ionic-team/ionic-framework/issues/22979"
+				},
+				{
+					"issueTitle": "bug: placeholder types not compliant in ionic / react",
+					"issueURL": "https://github.com//ionic-team/ionic-framework/issues/22976"
+				},
+				{
+					"issueTitle": "bug: slides issues with async initialization",
+					"issueURL": "https://github.com//ionic-team/ionic-framework/issues/22961"
+				},
+				{
+					"issueTitle": "feat: AcionSheet/ActionAlert custom properties",
+					"issueURL": "https://github.com//ionic-team/ionic-framework/issues/22959"
+				},
+				{
+					"issueTitle": "bug: ion-datetime wrong height/padding",
+					"issueURL": "https://github.com//ionic-team/ionic-framework/issues/22954"
+				},
+				{
+					"issueTitle": "bug: webkit performance issue when using large number of css variables",
+					"issueURL": "https://github.com//ionic-team/ionic-framework/issues/22951"
+				},
+				{
+					"issueTitle": "bug: scroll assist does not re-run when changing keyboards",
+					"issueURL": "https://github.com//ionic-team/ionic-framework/issues/22940"
+				},
+				{
+					"issueTitle": "bug(router): beforeEnter is not triggered for initial navigation",
+					"issueURL": "https://github.com//ionic-team/ionic-framework/issues/22936"
+				},
+				{
+					"issueTitle": "bug: thumbnail not being properly sized when slotted inside item",
+					"issueURL": "https://github.com//ionic-team/ionic-framework/issues/22935"
+				},
+				{
+					"issueTitle": "bug: ionReorderGroup does not work with custom components",
+					"issueURL": "https://github.com//ionic-team/ionic-framework/issues/22934"
+				},
+				{
+					"issueTitle": "feat: Master Detail View Support",
+					"issueURL": "https://github.com//ionic-team/ionic-framework/issues/22930"
+				}
+			]
+		},
+		{
+			"name": "prettier",
+			"link": "https://github.com//prettier/prettier",
+			"issues": [
+				{
+					"issueTitle": "Add man page",
+					"issueURL": "https://github.com//prettier/prettier/issues/10514"
+				},
+				{
+					"issueTitle": "YAML: Node Anchor followed by a blank line: \"Nested mappings are not allowed in compact mappings\"",
+					"issueURL": "https://github.com//prettier/prettier/issues/10510"
+				},
+				{
+					"issueTitle": "markdown: lists with non-default indent size increases padding between list syntax and value",
+					"issueURL": "https://github.com//prettier/prettier/issues/10508"
+				},
+				{
+					"issueTitle": "parse error on mdx code block in markdown",
+					"issueURL": "https://github.com//prettier/prettier/issues/10507"
+				},
+				{
+					"issueTitle": "[CSS] Bad formatting of a long list of arguments",
+					"issueURL": "https://github.com//prettier/prettier/issues/10486"
+				},
+				{
+					"issueTitle": "idea: more exit codes.",
+					"issueURL": "https://github.com//prettier/prettier/issues/10467"
+				},
+				{
+					"issueTitle": "Formatting issue when using a function called 'define' (no AMD/RequireJS)",
+					"issueURL": "https://github.com//prettier/prettier/issues/10422"
+				},
+				{
+					"issueTitle": "Glimmer: Double quotes removed even if single quotes inside",
+					"issueURL": "https://github.com//prettier/prettier/issues/10419"
+				},
+				{
+					"issueTitle": "Missing parens in `yield` pipeline expression",
+					"issueURL": "https://github.com//prettier/prettier/issues/10413"
+				},
+				{
+					"issueTitle": "Babel turn invalid code to valid code",
+					"issueURL": "https://github.com//prettier/prettier/issues/10412"
+				},
+				{
+					"issueTitle": "Broken `ThrowExpression` case",
+					"issueURL": "https://github.com//prettier/prettier/issues/10411"
+				},
+				{
+					"issueTitle": "Proposal: Add `__babel-estree` parser",
+					"issueURL": "https://github.com//prettier/prettier/issues/10406"
+				},
+				{
+					"issueTitle": "[Feature Request] add warning about file ignored and cli flag to enforce formatting",
+					"issueURL": "https://github.com//prettier/prettier/issues/10395"
+				},
+				{
+					"issueTitle": "Prefer breaking after = in type aliases if RHS is a conditional type chain",
+					"issueURL": "https://github.com//prettier/prettier/issues/10325"
+				},
+				{
+					"issueTitle": "Update the docs on the website to reflect the Husky 5.0 for pre-commit hooks",
+					"issueURL": "https://github.com//prettier/prettier/issues/10311"
+				},
+				{
+					"issueTitle": "scss mixin breaks on format if name is \"selector\"",
+					"issueURL": "https://github.com//prettier/prettier/issues/10291"
+				},
+				{
+					"issueTitle": "[typescript] doc comments on function type signatures get moved to invalid places",
+					"issueURL": "https://github.com//prettier/prettier/issues/10260"
+				},
+				{
+					"issueTitle": "why the if comment is line breaked?",
+					"issueURL": "https://github.com//prettier/prettier/issues/10250"
+				},
+				{
+					"issueTitle": "Refactor: Print `ChainExpression` directly",
+					"issueURL": "https://github.com//prettier/prettier/issues/10244"
+				},
+				{
+					"issueTitle": "Glimmer parser destructively re-orders component args and comments",
+					"issueURL": "https://github.com//prettier/prettier/issues/10203"
+				},
+				{
+					"issueTitle": "Freeze builtin docs",
+					"issueURL": "https://github.com//prettier/prettier/issues/10182"
+				},
+				{
+					"issueTitle": "Handlebars: Print one element per line (like HTML printer)",
+					"issueURL": "https://github.com//prettier/prettier/issues/10178"
+				},
+				{
+					"issueTitle": "The CSS indentationl level is miscalculated in calc()-like functions",
+					"issueURL": "https://github.com//prettier/prettier/issues/10166"
+				},
+				{
+					"issueTitle": "Wrap and indent long class names with glimmer parser",
+					"issueURL": "https://github.com//prettier/prettier/issues/10163"
+				},
+				{
+					"issueTitle": "Investigate/debug how ifBreak with group id works inside group with that id",
+					"issueURL": "https://github.com//prettier/prettier/issues/10159"
+				}
+			]
+		}
+	],
+	"Storybook": [
+		{
+			"name": "storybook",
+			"link": "https://github.com//storybookjs/storybook",
+			"issues": [
+				{
+					"issueTitle": "Object control does not work with value property containing string with commas",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14225"
+				},
+				{
+					"issueTitle": "[6.2.0-beta.14] using asset/source Webpack 5 loader returns export string",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14222"
+				},
+				{
+					"issueTitle": "Change default main.js config for svelte project",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14221"
+				},
+				{
+					"issueTitle": "Version 6.1.21 of `@storybook/vue` breaks '*.vue' module types",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14220"
+				},
+				{
+					"issueTitle": "Old images for new docs",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14218"
+				},
+				{
+					"issueTitle": "Need a reliable way to test if storybook page is ready programatically",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14216"
+				},
+				{
+					"issueTitle": "[6.2.0-beta.14] Unknown exception created by Scroller",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14214"
+				},
+				{
+					"issueTitle": "[6.2b] ReferenceError React is not defined",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14208"
+				},
+				{
+					"issueTitle": "Search input activated when pressing '/' in text knob/control",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14207"
+				},
+				{
+					"issueTitle": "dispatched CustomEvent not showing up in Actions",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14205"
+				},
+				{
+					"issueTitle": "Range slider value label changes handle position and causes jittering",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14204"
+				},
+				{
+					"issueTitle": "MDX fails to render docs with Vue3",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14201"
+				},
+				{
+					"issueTitle": "Storybook 6.2.0-beta.13 not transforming class properties",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14197"
+				},
+				{
+					"issueTitle": "Typescript React event type references are not recognized as a function",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14194"
+				},
+				{
+					"issueTitle": "Angular source code view unavailable until control toggled",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14193"
+				},
+				{
+					"issueTitle": "[Angular] Generated attributes with auto generated id (like nghost)",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14192"
+				},
+				{
+					"issueTitle": "Unable to resolve path to module '@storybook/react/types-6-0'",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14190"
+				},
+				{
+					"issueTitle": "Solution for duplicate kinds in a distributed fashion",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14189"
+				},
+				{
+					"issueTitle": "MDX auto HeaderWithOcticonAnchor links in iframe have incorrect url.",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14188"
+				},
+				{
+					"issueTitle": "Add option to show globalTypes name in toolbar",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14187"
+				},
+				{
+					"issueTitle": "Allow custom URLs in `outputStartupInformation`",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14185"
+				},
+				{
+					"issueTitle": "ArgsTable not working for Web Components in MDX",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14180"
+				},
+				{
+					"issueTitle": "Actions panel not clickable",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14178"
+				},
+				{
+					"issueTitle": "Skip eslint/prettier error in development mode",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14177"
+				},
+				{
+					"issueTitle": "validateDOMNesting error when displaying a URL generated by compodocs",
+					"issueURL": "https://github.com//storybookjs/storybook/issues/14176"
+				}
+			]
+		},
+		{
+			"name": "arc",
+			"link": "https://github.com//diegohaz/arc",
+			"issues": [
+				{
+					"issueTitle": "crashes on heroku, but not locally.",
+					"issueURL": "https://github.com//diegohaz/arc/issues/373"
+				},
+				{
+					"issueTitle": "Non root path build",
+					"issueURL": "https://github.com//diegohaz/arc/issues/371"
+				},
+				{
+					"issueTitle": "GraphQl Branch",
+					"issueURL": "https://github.com//diegohaz/arc/issues/357"
+				},
+				{
+					"issueTitle": "Arc ssr (server side) CSS can not loaded.",
+					"issueURL": "https://github.com//diegohaz/arc/issues/350"
+				},
+				{
+					"issueTitle": "A lot of packages is out of date",
+					"issueURL": "https://github.com//diegohaz/arc/issues/349"
+				},
+				{
+					"issueTitle": "Customizing Storybook",
+					"issueURL": "https://github.com//diegohaz/arc/issues/345"
+				},
+				{
+					"issueTitle": "Does not DELETE from entities",
+					"issueURL": "https://github.com//diegohaz/arc/issues/341"
+				},
+				{
+					"issueTitle": "less-loader for ant-design",
+					"issueURL": "https://github.com//diegohaz/arc/issues/340"
+				},
+				{
+					"issueTitle": "Browser not refreshing on code change",
+					"issueURL": "https://github.com//diegohaz/arc/issues/338"
+				},
+				{
+					"issueTitle": "Minor spelling errors on arc.js.org",
+					"issueURL": "https://github.com//diegohaz/arc/issues/337"
+				},
+				{
+					"issueTitle": "Working collection of bundle-shaving tips",
+					"issueURL": "https://github.com//diegohaz/arc/issues/336"
+				},
+				{
+					"issueTitle": "css from external libraries",
+					"issueURL": "https://github.com//diegohaz/arc/issues/329"
+				},
+				{
+					"issueTitle": "[redux] Containers and presenting information differently",
+					"issueURL": "https://github.com//diegohaz/arc/issues/328"
+				},
+				{
+					"issueTitle": "Support different data sets for the same resource",
+					"issueURL": "https://github.com//diegohaz/arc/issues/327"
+				},
+				{
+					"issueTitle": "Does ARc work with IE?",
+					"issueURL": "https://github.com//diegohaz/arc/issues/326"
+				},
+				{
+					"issueTitle": "build does not work on local or github pages",
+					"issueURL": "https://github.com//diegohaz/arc/issues/324"
+				},
+				{
+					"issueTitle": "Upgrade webpack-blocks to 1.0",
+					"issueURL": "https://github.com//diegohaz/arc/issues/315"
+				},
+				{
+					"issueTitle": "Support for inferno",
+					"issueURL": "https://github.com//diegohaz/arc/issues/310"
+				},
+				{
+					"issueTitle": "Support hyphen for url endpoints naming",
+					"issueURL": "https://github.com//diegohaz/arc/issues/309"
+				},
+				{
+					"issueTitle": "[redux-ssr] Question about hasServerState, setServerState and cleanServerState",
+					"issueURL": "https://github.com//diegohaz/arc/issues/308"
+				},
+				{
+					"issueTitle": "Localization",
+					"issueURL": "https://github.com//diegohaz/arc/issues/299"
+				},
+				{
+					"issueTitle": "Are you using ARc? Please, read this.",
+					"issueURL": "https://github.com//diegohaz/arc/issues/294"
+				},
+				{
+					"issueTitle": "DeprecationWarning, chunk.modules",
+					"issueURL": "https://github.com//diegohaz/arc/issues/293"
+				},
+				{
+					"issueTitle": "[redux/entities] API path with child path not handled",
+					"issueURL": "https://github.com//diegohaz/arc/issues/292"
+				},
+				{
+					"issueTitle": "[redux-ssr] signin deseapear when you refresh",
+					"issueURL": "https://github.com//diegohaz/arc/issues/291"
+				}
+			]
+		},
+		{
+			"name": "learnstorybook.com",
+			"link": "https://github.com//chromaui/learnstorybook.com",
+			"issues": [
+				{
+					"issueTitle": "Portuguese translation",
+					"issueURL": "https://github.com//chromaui/learnstorybook.com/issues/458"
+				},
+				{
+					"issueTitle": "design-systems-for-developer: workflow: Little Typo",
+					"issueURL": "https://github.com//chromaui/learnstorybook.com/issues/446"
+				},
+				{
+					"issueTitle": "design-systems-for-developer: workflow: AvatarList.stories.js Errors",
+					"issueURL": "https://github.com//chromaui/learnstorybook.com/issues/445"
+				},
+				{
+					"issueTitle": "Some Tutorial Instructions Not working (Package Scoping and some other): Distribute",
+					"issueURL": "https://github.com//chromaui/learnstorybook.com/issues/444"
+				},
+				{
+					"issueTitle": "Babel pipeline config did not work as instructed in tutorial \"Design Systems for Developers\"",
+					"issueURL": "https://github.com//chromaui/learnstorybook.com/issues/440"
+				},
+				{
+					"issueTitle": "Missing instruction to enter real Chromatic token in yml file",
+					"issueURL": "https://github.com//chromaui/learnstorybook.com/issues/439"
+				},
+				{
+					"issueTitle": "Intro to Storybook templates",
+					"issueURL": "https://github.com//chromaui/learnstorybook.com/issues/431"
+				},
+				{
+					"issueTitle": "Testing Connected Components",
+					"issueURL": "https://github.com//chromaui/learnstorybook.com/issues/421"
+				},
+				{
+					"issueTitle": "Eng-Ko translation needed in Get-Started page",
+					"issueURL": "https://github.com//chromaui/learnstorybook.com/issues/415"
+				},
+				{
+					"issueTitle": "Change references to `master` to `main` to reflect GitHub's new default branch name",
+					"issueURL": "https://github.com//chromaui/learnstorybook.com/issues/408"
+				},
+				{
+					"issueTitle": "Intro to Storybook code base updates",
+					"issueURL": "https://github.com//chromaui/learnstorybook.com/issues/386"
+				},
+				{
+					"issueTitle": "Cyrillic support",
+					"issueURL": "https://github.com//chromaui/learnstorybook.com/issues/371"
+				},
+				{
+					"issueTitle": "By following the tutorial, what I got isn't the same as what tutorial present",
+					"issueURL": "https://github.com//chromaui/learnstorybook.com/issues/352"
+				},
+				{
+					"issueTitle": "Translation updates",
+					"issueURL": "https://github.com//chromaui/learnstorybook.com/issues/350"
+				},
+				{
+					"issueTitle": "Relative Linking",
+					"issueURL": "https://github.com//chromaui/learnstorybook.com/issues/347"
+				},
+				{
+					"issueTitle": "Guides link dropdown in navigation is missing focus color.",
+					"issueURL": "https://github.com//chromaui/learnstorybook.com/issues/253"
+				},
+				{
+					"issueTitle": "Fix prettier settings for MD files or reformat all of them",
+					"issueURL": "https://github.com//chromaui/learnstorybook.com/issues/162"
+				},
+				{
+					"issueTitle": "Vue with TypeScript Example Configs Missing",
+					"issueURL": "https://github.com//chromaui/learnstorybook.com/issues/92"
+				},
+				{
+					"issueTitle": "Learn Storybook sequel – Mastering Storybook – a guide for intermediate/advanced users",
+					"issueURL": "https://github.com//chromaui/learnstorybook.com/issues/77"
+				},
+				{
+					"issueTitle": "Translations wanted",
+					"issueURL": "https://github.com//chromaui/learnstorybook.com/issues/3"
+				}
+			]
+		},
+		{
+			"name": "react-responsive-carousel",
+			"link": "https://github.com//leandrowd/react-responsive-carousel",
+			"issues": [
+				{
+					"issueTitle": "Carousel Thumbnail Height Problem",
+					"issueURL": "https://github.com//leandrowd/react-responsive-carousel/issues/570"
+				},
+				{
+					"issueTitle": "dynamicHeight props not working properly on newer version of 3.2.12",
+					"issueURL": "https://github.com//leandrowd/react-responsive-carousel/issues/567"
+				},
+				{
+					"issueTitle": "False values shown as empty items when showThumbs is false",
+					"issueURL": "https://github.com//leandrowd/react-responsive-carousel/issues/563"
+				},
+				{
+					"issueTitle": "On swipe - onChange triggered twice",
+					"issueURL": "https://github.com//leandrowd/react-responsive-carousel/issues/562"
+				},
+				{
+					"issueTitle": "Why Carusel does not accept Next.js Image?",
+					"issueURL": "https://github.com//leandrowd/react-responsive-carousel/issues/560"
+				},
+				{
+					"issueTitle": "Re-downloading each image on every scroll",
+					"issueURL": "https://github.com//leandrowd/react-responsive-carousel/issues/558"
+				},
+				{
+					"issueTitle": "dynamic import issues",
+					"issueURL": "https://github.com//leandrowd/react-responsive-carousel/issues/555"
+				},
+				{
+					"issueTitle": "Hide Purely Visual Elements from Screen Readers",
+					"issueURL": "https://github.com//leandrowd/react-responsive-carousel/issues/548"
+				},
+				{
+					"issueTitle": "Focus given to non-interactive div",
+					"issueURL": "https://github.com//leandrowd/react-responsive-carousel/issues/545"
+				},
+				{
+					"issueTitle": "Ability to shift several thumbnails when clicking the control arrows",
+					"issueURL": "https://github.com//leandrowd/react-responsive-carousel/issues/540"
+				},
+				{
+					"issueTitle": "Position Thumbnails slider Above rendered view",
+					"issueURL": "https://github.com//leandrowd/react-responsive-carousel/issues/539"
+				},
+				{
+					"issueTitle": "Reset slider position on every render of carousel",
+					"issueURL": "https://github.com//leandrowd/react-responsive-carousel/issues/536"
+				},
+				{
+					"issueTitle": "Thanks",
+					"issueURL": "https://github.com//leandrowd/react-responsive-carousel/issues/533"
+				},
+				{
+					"issueTitle": "Setting selectedItem prop triggers onChange multiple times with \"controlled\" value",
+					"issueURL": "https://github.com//leandrowd/react-responsive-carousel/issues/531"
+				},
+				{
+					"issueTitle": "Slide overlap on closing pop up",
+					"issueURL": "https://github.com//leandrowd/react-responsive-carousel/issues/529"
+				},
+				{
+					"issueTitle": "Add list of props to ReadMe",
+					"issueURL": "https://github.com//leandrowd/react-responsive-carousel/issues/528"
+				},
+				{
+					"issueTitle": "How to prevent open link when user dragging and ends dragging element?",
+					"issueURL": "https://github.com//leandrowd/react-responsive-carousel/issues/527"
+				},
+				{
+					"issueTitle": "Disable window scrolling while swiping horizontally on tab in phone",
+					"issueURL": "https://github.com//leandrowd/react-responsive-carousel/issues/526"
+				},
+				{
+					"issueTitle": "Timer does not reset when the carousel image is changed through indicators",
+					"issueURL": "https://github.com//leandrowd/react-responsive-carousel/issues/525"
+				},
+				{
+					"issueTitle": "[BUG] Timeout memory leak on unmount",
+					"issueURL": "https://github.com//leandrowd/react-responsive-carousel/issues/524"
+				},
+				{
+					"issueTitle": "How do I use renderIndicator",
+					"issueURL": "https://github.com//leandrowd/react-responsive-carousel/issues/523"
+				},
+				{
+					"issueTitle": "Swipeable doesn't work on desktop browsers (without touch)",
+					"issueURL": "https://github.com//leandrowd/react-responsive-carousel/issues/521"
+				},
+				{
+					"issueTitle": "Loop is not working when you gives selectedItem",
+					"issueURL": "https://github.com//leandrowd/react-responsive-carousel/issues/520"
+				},
+				{
+					"issueTitle": "Please provide a additional prop for the thumbnail height as thumbnail width",
+					"issueURL": "https://github.com//leandrowd/react-responsive-carousel/issues/519"
+				},
+				{
+					"issueTitle": "Cannot read property 'x' of null",
+					"issueURL": "https://github.com//leandrowd/react-responsive-carousel/issues/518"
+				}
+			]
+		},
+		{
+			"name": "ReactiveTraderCloud",
+			"link": "https://github.com//AdaptiveConsulting/ReactiveTraderCloud",
+			"issues": [
+				{
+					"issueTitle": "Brokered Communication From Service to Service",
+					"issueURL": "https://github.com//AdaptiveConsulting/ReactiveTraderCloud/issues/722"
+				},
+				{
+					"issueTitle": "Code documentation || learning resources",
+					"issueURL": "https://github.com//AdaptiveConsulting/ReactiveTraderCloud/issues/614"
+				}
+			]
+		},
+		{
+			"name": "React95",
+			"link": "https://github.com//React95/React95",
+			"issues": [
+				{
+					"issueTitle": "Import icons when used instead of adding to CSS",
+					"issueURL": "https://github.com//React95/React95/issues/235"
+				},
+				{
+					"issueTitle": "When a Window title changes, it doesn't update in taskbar",
+					"issueURL": "https://github.com//React95/React95/issues/231"
+				},
+				{
+					"issueTitle": "reference windows by id, not by title",
+					"issueURL": "https://github.com//React95/React95/issues/194"
+				},
+				{
+					"issueTitle": "react95/core package import all icons and weight up the bundle size",
+					"issueURL": "https://github.com//React95/React95/issues/189"
+				},
+				{
+					"issueTitle": "Wrong font",
+					"issueURL": "https://github.com//React95/React95/issues/158"
+				},
+				{
+					"issueTitle": "New Modals",
+					"issueURL": "https://github.com//React95/React95/issues/154"
+				},
+				{
+					"issueTitle": "Alert sound",
+					"issueURL": "https://github.com//React95/React95/issues/152"
+				},
+				{
+					"issueTitle": "add defaultValue and value props support for some form like components",
+					"issueURL": "https://github.com//React95/React95/issues/100"
+				},
+				{
+					"issueTitle": "I would love to create the FileSystem loading state",
+					"issueURL": "https://github.com//React95/React95/issues/84"
+				},
+				{
+					"issueTitle": "Update storybook UI",
+					"issueURL": "https://github.com//React95/React95/issues/33"
+				}
+			]
+		},
+		{
+			"name": "jira-clone-angular",
+			"link": "https://github.com//trungk18/jira-clone-angular"
+		},
+		{
+			"name": "ifme",
+			"link": "https://github.com//ifmeorg/ifme",
+			"issues": [
+				{
+					"issueTitle": "Add missing unit tests to the components",
+					"issueURL": "https://github.com//ifmeorg/ifme/issues/1967"
+				},
+				{
+					"issueTitle": "Devise confirmable clashing with Google and Facebook OAuth",
+					"issueURL": "https://github.com//ifmeorg/ifme/issues/1964"
+				},
+				{
+					"issueTitle": "Implement 2FA During Login",
+					"issueURL": "https://github.com//ifmeorg/ifme/issues/1919"
+				},
+				{
+					"issueTitle": "Pell WYSIWYG editor color not accessible",
+					"issueURL": "https://github.com//ifmeorg/ifme/issues/1898"
+				},
+				{
+					"issueTitle": "Fix act warnings in Jest tests",
+					"issueURL": "https://github.com//ifmeorg/ifme/issues/1857"
+				},
+				{
+					"issueTitle": "Requesting Indonesia Translation",
+					"issueURL": "https://github.com//ifmeorg/ifme/issues/1855"
+				},
+				{
+					"issueTitle": "Devise deprecation warnings",
+					"issueURL": "https://github.com//ifmeorg/ifme/issues/1851"
+				},
+				{
+					"issueTitle": "Refactor spec/controllers/pages_controller_spec.rb to spec/request/page_spec.rb",
+					"issueURL": "https://github.com//ifmeorg/ifme/issues/1833"
+				},
+				{
+					"issueTitle": "Refactor spec/controllers/moods_controller_spec.rb to spec/request/mood_spec.rb",
+					"issueURL": "https://github.com//ifmeorg/ifme/issues/1830"
+				},
+				{
+					"issueTitle": "Refactor spec/controllers/meetings_controller_spec.rb to spec/request/meeting_spec.rb",
+					"issueURL": "https://github.com//ifmeorg/ifme/issues/1828"
+				},
+				{
+					"issueTitle": "Refactor spec/controllers/locales_controller_spec.rb to spec/request/locale_spec.rb",
+					"issueURL": "https://github.com//ifmeorg/ifme/issues/1826"
+				},
+				{
+					"issueTitle": "Refactor RSpec Controller Specs to Request Specs",
+					"issueURL": "https://github.com//ifmeorg/ifme/issues/1815"
+				},
+				{
+					"issueTitle": "Migrate client/app/components/Modal/__tests__/Modal.spec.jsx to use React Testing Library instead of Enzyme",
+					"issueURL": "https://github.com//ifmeorg/ifme/issues/1794"
+				},
+				{
+					"issueTitle": "Allow Users to Add Members to Groups",
+					"issueURL": "https://github.com//ifmeorg/ifme/issues/1751"
+				},
+				{
+					"issueTitle": "Recommend resources for users to use in Moments posts",
+					"issueURL": "https://github.com//ifmeorg/ifme/issues/1713"
+				},
+				{
+					"issueTitle": "Suggested Password strength features checks  should be visible to the first time user who are signing up",
+					"issueURL": "https://github.com//ifmeorg/ifme/issues/1696"
+				},
+				{
+					"issueTitle": "Should the client app use a type checker?",
+					"issueURL": "https://github.com//ifmeorg/ifme/issues/1690"
+				},
+				{
+					"issueTitle": "Track progress on strategies",
+					"issueURL": "https://github.com//ifmeorg/ifme/issues/1687"
+				},
+				{
+					"issueTitle": "Add time support for Medications",
+					"issueURL": "https://github.com//ifmeorg/ifme/issues/1601"
+				},
+				{
+					"issueTitle": "Functionality to download your user data",
+					"issueURL": "https://github.com//ifmeorg/ifme/issues/1560"
+				},
+				{
+					"issueTitle": "Front-end: uploading Images in Moments and Strategies",
+					"issueURL": "https://github.com//ifmeorg/ifme/issues/1481"
+				},
+				{
+					"issueTitle": "Requesting Japanese Translation",
+					"issueURL": "https://github.com//ifmeorg/ifme/issues/1215"
+				},
+				{
+					"issueTitle": "Improve performance on production by reducing JS payloads",
+					"issueURL": "https://github.com//ifmeorg/ifme/issues/1024"
+				},
+				{
+					"issueTitle": "Possible injection vulnerability",
+					"issueURL": "https://github.com//ifmeorg/ifme/issues/1006"
+				},
+				{
+					"issueTitle": "Add Github authetication",
+					"issueURL": "https://github.com//ifmeorg/ifme/issues/961"
+				}
+			]
+		}
+	]
+}
